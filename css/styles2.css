@@ -10259,6 +10259,18 @@ footer.footer .social-link:hover {
   border: 0;
 }
 
+.title-font{
+  font-family: 'Pattaya', sans-serif;
+}
+
+.title-2{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.title-3{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
 .masthead {
   min-height: 30rem;
   position: relative;
