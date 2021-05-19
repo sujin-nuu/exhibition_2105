@@ -10271,6 +10271,10 @@ footer.footer .social-link:hover {
   font-family: 'Noto Sans KR', sans-serif;
 }
 
+.font-noto{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
 .masthead {
   min-height: 30rem;
   position: relative;
