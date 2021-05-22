@@ -2413,7 +2413,26 @@ textarea.form-control {
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
   line-height: 1.5;
-  border-radius: 0.25rem;
+  border-radius: 0.50rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn2 {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.50rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -2441,14 +2460,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #a46ce4;
-  border-color: #a46ce4;
+  color: rgb(66, 66, 66);
+  background-color: #efdfff;
+  border-color: #efdfff;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #a060d4;
-  border-color: #a060d4;
+  background-color: #b698cf;
+  border-color: #b698cf;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10219,6 +10238,10 @@ html {
   padding: 1.25rem 2.5rem;
 }
 
+.btn-xl2 {
+  padding: 1rem 1.8rem;
+}
+
 .callout {
   padding: 15rem 0;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg");
@@ -10283,7 +10306,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../asset/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../asset/bg-title.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
