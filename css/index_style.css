@@ -16,3 +16,8 @@
     height: 14rem;
     border: 0.5rem solid rgba(0, 0, 0, 0.1);
 }
+
+.profile-i h4{
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+}
