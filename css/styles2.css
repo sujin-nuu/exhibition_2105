@@ -2671,13 +2671,13 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #545657;
+  border-color: #545657;
 }
 .btn-dark:hover {
   color: #fff;
-  background-color: #23272b;
-  border-color: #1d2124;
+  background-color: #39393a;
+  border-color: #39393a;
 }
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
@@ -10379,6 +10379,7 @@ footer.footer .social-link:hover {
     -webkit-clip-path: inset(-1px);
             clip-path: inset(-1px);
   }
+  
   .portfolio-item:hover img {
     -webkit-clip-path: inset(2rem);
             clip-path: inset(2rem);
