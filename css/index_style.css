@@ -5,3 +5,9 @@
 .t-2{
     font-size:  1.2em !important;
 }
+
+.profile-i{
+    width: 14rem;
+    height: 14rem;
+    border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
