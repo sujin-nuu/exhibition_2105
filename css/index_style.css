@@ -30,6 +30,6 @@
     margin-bottom: 1rem;
 }
 
-section{
-    flex: auto;
+body{
+    overflow: hidden;
 }
