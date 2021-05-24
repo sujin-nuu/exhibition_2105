@@ -9904,11 +9904,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #d7a5eb !important;
+  color: #1D809F !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #d7a5eb !important;
+  color: #114c5e !important;
 }
 
 .text-secondary {
@@ -10114,6 +10114,7 @@ html {
 
 .content-section {
   padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .content-section-heading h2 {
