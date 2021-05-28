@@ -32,6 +32,7 @@
 
 .btn-div{
     margin: auto;
+    padding-top: 1em;
 }
 
 .name-e{
@@ -41,12 +42,16 @@
 
 .name-k{
     font-family: 'Noto Sans KR', sans-serif;
+    font-size: 1.8em;
+    font-weight: 400;
 }
 .text-come{
     font-family: 'Nanum Myeongjo', serif;
     font-size: 1.25em;
+    border-bottom: 0.1rem solid #b8b8b8;
+    padding-bottom: 1.2rem;
 }
 .text-come2{
-    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Noto Sans KR', sans-serif;
     font-size: 0.9em;
 }
