@@ -36,8 +36,13 @@
 
 .name-e{
     font-family: 'Odibee Sans', cursive;
+    font-size: 2.5em;
 }
 
 .name-k{
-
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.text-come{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 1.25em;
 }
